@@ -19,6 +19,46 @@
 ## Polymorphism
 ## Interface
 
-# Program
+# Program Aplikasi UMKM Digital Assistant (GUI)
+
+## Halaman Utama
+
+<img width="1189" height="894" alt="Screenshot 2025-11-04 150129" src="https://github.com/user-attachments/assets/a5154c9f-c70c-4068-b93d-0405abc51d29" />
+
+## Halaman Daftar
+
+<img width="1193" height="904" alt="Screenshot 2025-11-04 150257" src="https://github.com/user-attachments/assets/58852da1-0fbc-41ff-af5c-90fd5429e960" />
+
+## Halaman Login
+
+<img width="1186" height="901" alt="Screenshot 2025-11-04 150139" src="https://github.com/user-attachments/assets/4f538ffd-6157-4896-8987-5fd6c1075b0a" />
+
+## ADMIN UMKM
+
+### Home
+
+### Kasir
+
+### Laooran
+
+### Stok
+
+### Profile
+
+## PEGAWAI UMKM
+
+### Home
+
+<img width="1202" height="892" alt="Screenshot 2025-11-04 150325" src="https://github.com/user-attachments/assets/3bca6cb3-2fbf-4aab-885d-dea6634c4e03" />
+
+### Kasir
+
+<img width="1398" height="847" alt="Screenshot 2025-11-04 150343" src="https://github.com/user-attachments/assets/70b8c2ec-09d7-462f-96e3-ccdc8351ee5c" />
+
+### Stok
+
+<img width="1173" height="731" alt="Screenshot 2025-11-04 150403" src="https://github.com/user-attachments/assets/ce3591d8-5899-4b08-b6f4-9d665f456085" />
+
+
 
 
