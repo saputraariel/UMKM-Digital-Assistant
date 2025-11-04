@@ -35,27 +35,27 @@
 
 ## ╰┈➤ ADMIN UMKM
 
-### ╰┈┈➤ Home
+### ╰┈┈┈┈➤ Home
 
-### ╰┈┈➤ Kasir
+### ╰┈┈┈┈➤ Kasir
 
-### ╰┈┈➤ Laooran
+### ╰┈┈┈┈➤ Laooran
 
-### ╰┈┈➤ Stok
+### ╰┈┈┈┈➤ Stok
 
-### ╰┈┈➤ Profile
+### ╰┈┈┈┈➤ Profile
 
 ## ╰┈➤ PEGAWAI UMKM
 
-### ╰┈┈➤ Home
+### ╰┈┈┈┈➤ Home
 
 <img width="1202" height="892" alt="Screenshot 2025-11-04 150325" src="https://github.com/user-attachments/assets/3bca6cb3-2fbf-4aab-885d-dea6634c4e03" />
 
-### ╰┈┈➤ Kasir
+### ╰┈┈┈┈➤ Kasir
 
 <img width="1398" height="847" alt="Screenshot 2025-11-04 150343" src="https://github.com/user-attachments/assets/70b8c2ec-09d7-462f-96e3-ccdc8351ee5c" />
 
-### ╰┈┈➤ Stok
+### ╰┈┈┈┈➤ Stok
 
 <img width="1173" height="731" alt="Screenshot 2025-11-04 150403" src="https://github.com/user-attachments/assets/ce3591d8-5899-4b08-b6f4-9d665f456085" />
 
