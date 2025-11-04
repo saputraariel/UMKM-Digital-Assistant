@@ -11,19 +11,12 @@
 
 # ➤ Deskripsi Aplikasi
 
-UMKM Digital Assistant adalah sebuah platform digital yang dirancang untuk mendukung transformasi digital pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Indonesia. Sebagai bagian dari upaya mewujudkan 
-
-Sustainable Development Goals (SDG) nomor 8: Decent Work and Economic Growth, program ini bertujuan untuk meningkatkan efisiensi, produktivitas, dan daya saing UMKM di era ekonomi digital.
-
+UMKM Digital Assistant adalah sebuah platform digital yang dirancang untuk mendukung transformasi digital pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Indonesia. Sebagai bagian dari upaya mewujudkan Sustainable Development Goals (SDG) nomor 8: Decent Work and Economic Growth, program ini bertujuan untuk meningkatkan efisiensi, produktivitas, dan daya saing UMKM di era ekonomi digital.
 
 Platform ini hadir sebagai solusi bagi pelaku usaha yang masih beroperasi secara konvensional, dengan menyediakan sistem pencatatan dan pelaporan otomatis yang mudah digunakan tanpa memerlukan pengetahuan 
-
 teknis atau akuntansi yang rumit. Melalui digitalisasi proses bisnis, UMKM Digital Assistant membantu pengguna menghemat waktu, meminimalkan kesalahan data, dan memperoleh informasi keuangan yang akurat untuk pengambilan keputusan strategis.
 
-
-Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaan ekonomi digital yang inklusif, membuka akses bagi pelaku UMKM untuk terhubung ke ekosistem bisnis modern, memperluas pasar, 
-
-serta memperkuat kontribusi terhadap pertumbuhan ekonomi nasional.
+Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaan ekonomi digital yang inklusif, membuka akses bagi pelaku UMKM untuk terhubung ke ekosistem bisnis modern, memperluas pasar, serta memperkuat kontribusi terhadap pertumbuhan ekonomi nasional.
 
 # ➤ 5 Pilar Pemrograman Berorientasi Objek
 
