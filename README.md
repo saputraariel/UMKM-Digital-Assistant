@@ -49,6 +49,8 @@ Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaa
 ### ╰┈┈┈┈➤ Home
 
 ### ╰┈┈┈┈➤ Kasir
+![WhatsApp Image 2025-11-04 at 15 18 01_a28584bc](https://github.com/user-attachments/assets/70f5684e-38a9-4020-8f9e-ea66e6899903)
+
 
 ### ╰┈┈┈┈➤ Laooran
 
