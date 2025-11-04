@@ -11,7 +11,7 @@
 
 # Deskripsi Aplikasi
 
-#5 Pilar Pemrograman Berorientasi Objek
+# 5 Pilar Pemrograman Berorientasi Objek
 
 ## Encapsulation
 ## Abstraction
